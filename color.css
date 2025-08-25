@@ -4,6 +4,7 @@
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
+        background-image: linear-gradient(180deg,red,orange,yellow,green,cyan,blue,purple,pink);
         /* Optional: Add a smooth transition for the background-image property */
         transition: background-image 1s ease-in-out;
     }
