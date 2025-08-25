@@ -1,4 +1,4 @@
-function solveQuadratic(a, b, c) {
+function solveQuadratic(a, b, c) {HTMLTextAreaElement
   // Calculate the discriminant
   const discriminant = b * b - 4 * a * c;
 
