@@ -15,8 +15,8 @@ body {
     rgba(23,255,17,1) 45.8%, 
     rgba(29,255,255,1) 61.5%, 
     rgba(5,17,255,1) 76.4%, 
-    rgba(202,0,253,1) 92.4%),
-    rgba(223,0,0,1) 100%,;
+    rgba(202,0,253,1) 92.4%,
+    rgba(223,0,0,1) 100%);
   background-size: 400% 400%; /* Ensures the gradient covers a larger area for animation */
   animation: gradientAnimation 10s ease infinite; /* Adjust timing as needed */
 }
