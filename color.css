@@ -1,17 +1,17 @@
-
-
-body {
-  background: repeating-linear-gradient(90deg,red,orange,yellow,green,cyan,blue,purple);
+.gradient-background {
+  background: linear-gradient(90deg,red,orange,yellow,green,cyan,blue,purple);
+  background-size: 60% 60%;
+  animation: gradient-animation 6s ease infinite;
 }
-@keyframes rainbow-animation {
-  from {
-    background-position: 0% 0%;
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
   }
-  to {
-    background-position: 100% 0%; /* Moves the gradient across */
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
   }
 }
-    .animated-gradient {
-        /* ... previous gradient styles ... */
-        animation: gradient-shift 15s ease infinite alternate; /* Name, duration, timing, iteration, direction */
-    }
