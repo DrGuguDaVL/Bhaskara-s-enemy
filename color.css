@@ -11,3 +11,7 @@ body {
     background-position: 100% 0%; /* Moves the gradient across */
   }
 }
+    .animated-gradient {
+        /* ... previous gradient styles ... */
+        animation: gradient-shift 15s ease infinite alternate; /* Name, duration, timing, iteration, direction */
+    }
