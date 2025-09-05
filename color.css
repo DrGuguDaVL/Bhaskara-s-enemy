@@ -3,3 +3,11 @@
 body {
   background: repeating-linear-gradient(90deg,red,orange,yellow,green,cyan,blue,purple);
 }
+@keyframes rainbow-animation {
+  from {
+    background-position: 0% 0%;
+  }
+  to {
+    background-position: 100% 0%; /* Moves the gradient across */
+  }
+}
