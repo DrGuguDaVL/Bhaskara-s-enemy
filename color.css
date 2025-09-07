@@ -34,3 +34,6 @@ background-size: 1800% 1800%;
     50%{background-position:100% 19%}
     100%{background-position:0% 82%}
 }
+script {
+  z-index: 1000;
+}
