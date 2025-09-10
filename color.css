@@ -1,5 +1,5 @@
 body,head {
-    background-image: linear-gradient(360deg,lime,limegreen,green,forestgreen,darkgreen,teal,turquoise,cyan,aqua);
+    background-image: linear-gradient(360deg,lime,limegreen,green,forestgreen,darkgreen,teal,turquoise,cyan,aqua,100%);
     height: 100%;
     width: 100%;
 }
