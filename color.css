@@ -1,5 +1,5 @@
 body,head {
-    background-image: linear-gradient(lime,limegreen,green,forestgreen,darkgreen,teal,turquoise,cyan,aqua);
+    background-image: linear-gradient(180deg,lime,limegreen,green,forestgreen,darkgreen,teal,turquoise,cyan,aqua);
 }
 #Shit {
     color-scheme:light dark;
