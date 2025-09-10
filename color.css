@@ -1,4 +1,4 @@
 body{
     background-color: aquamarine;
-    color:color-mix(in srgb-linear, red 50%, blue 50%)
+    color:color-mix(in srgb-linear, red 50%, blue 50%);
 }
