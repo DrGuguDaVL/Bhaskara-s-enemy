@@ -1,9 +1,3 @@
-body,head {
-    background-image: linear-gradient(360deg,lime,limegreen,green,forestgreen,darkgreen,teal,turquoise,cyan,aqua,100%);
-    height: 100%;
-    width: 100%;
-}
-
-#Shit {
-    color-scheme:light dark;
+body{
+    color:color-mix(in srgb-linear, red 50%, blue 50%)
 }
